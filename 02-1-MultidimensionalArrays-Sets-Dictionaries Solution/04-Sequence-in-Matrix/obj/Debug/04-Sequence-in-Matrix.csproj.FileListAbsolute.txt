@@ -1,0 +1,6 @@
+E:\Programming\All Visual Studio Projects\02-1-MultidimensionalArrays-Sets-Dictionaries\04-Sequence-in-Matrix\bin\Debug\04-Sequence-in-Matrix.exe.config
+E:\Programming\All Visual Studio Projects\02-1-MultidimensionalArrays-Sets-Dictionaries\04-Sequence-in-Matrix\bin\Debug\04-Sequence-in-Matrix.exe
+E:\Programming\All Visual Studio Projects\02-1-MultidimensionalArrays-Sets-Dictionaries\04-Sequence-in-Matrix\bin\Debug\04-Sequence-in-Matrix.pdb
+E:\Programming\All Visual Studio Projects\02-1-MultidimensionalArrays-Sets-Dictionaries\04-Sequence-in-Matrix\obj\Debug\04-Sequence-in-Matrix.csprojResolveAssemblyReference.cache
+E:\Programming\All Visual Studio Projects\02-1-MultidimensionalArrays-Sets-Dictionaries\04-Sequence-in-Matrix\obj\Debug\04-Sequence-in-Matrix.exe
+E:\Programming\All Visual Studio Projects\02-1-MultidimensionalArrays-Sets-Dictionaries\04-Sequence-in-Matrix\obj\Debug\04-Sequence-in-Matrix.pdb

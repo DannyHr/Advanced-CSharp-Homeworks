@@ -1,0 +1,5 @@
+E:\Programming\All Visual Studio Projects\02-1-MultidimensionalArrays-Sets-Dictionaries\12-To-the-Stars\bin\Debug\12-To-the-Stars.exe.config
+E:\Programming\All Visual Studio Projects\02-1-MultidimensionalArrays-Sets-Dictionaries\12-To-the-Stars\bin\Debug\12-To-the-Stars.exe
+E:\Programming\All Visual Studio Projects\02-1-MultidimensionalArrays-Sets-Dictionaries\12-To-the-Stars\bin\Debug\12-To-the-Stars.pdb
+E:\Programming\All Visual Studio Projects\02-1-MultidimensionalArrays-Sets-Dictionaries\12-To-the-Stars\obj\Debug\12-To-the-Stars.exe
+E:\Programming\All Visual Studio Projects\02-1-MultidimensionalArrays-Sets-Dictionaries\12-To-the-Stars\obj\Debug\12-To-the-Stars.pdb

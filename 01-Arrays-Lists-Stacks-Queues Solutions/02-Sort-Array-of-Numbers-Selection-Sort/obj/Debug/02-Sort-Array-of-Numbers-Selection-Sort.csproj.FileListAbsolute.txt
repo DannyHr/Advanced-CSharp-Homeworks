@@ -1,0 +1,10 @@
+E:\Programming\All Visual Studio Projects\01-Arrays-Lists-Stacks-Queues\02-Sort-Array-of-Numbers-Selection-Sort\bin\Debug\02-Sort-Array-of-Numbers-Selection-Sort.exe.config
+E:\Programming\All Visual Studio Projects\01-Arrays-Lists-Stacks-Queues\02-Sort-Array-of-Numbers-Selection-Sort\bin\Debug\02-Sort-Array-of-Numbers-Selection-Sort.exe
+E:\Programming\All Visual Studio Projects\01-Arrays-Lists-Stacks-Queues\02-Sort-Array-of-Numbers-Selection-Sort\bin\Debug\02-Sort-Array-of-Numbers-Selection-Sort.pdb
+E:\Programming\All Visual Studio Projects\01-Arrays-Lists-Stacks-Queues\02-Sort-Array-of-Numbers-Selection-Sort\obj\Debug\02-Sort-Array-of-Numbers-Selection-Sort.exe
+E:\Programming\All Visual Studio Projects\01-Arrays-Lists-Stacks-Queues\02-Sort-Array-of-Numbers-Selection-Sort\obj\Debug\02-Sort-Array-of-Numbers-Selection-Sort.pdb
+E:\Programming\CSharp Advanced\Homeworks\01-Arrays-Lists-Stacks-Queues Solutions\02-Sort-Array-of-Numbers-Selection-Sort\bin\Debug\02-Sort-Array-of-Numbers-Selection-Sort.exe.config
+E:\Programming\CSharp Advanced\Homeworks\01-Arrays-Lists-Stacks-Queues Solutions\02-Sort-Array-of-Numbers-Selection-Sort\obj\Debug\02-Sort-Array-of-Numbers-Selection-Sort.exe
+E:\Programming\CSharp Advanced\Homeworks\01-Arrays-Lists-Stacks-Queues Solutions\02-Sort-Array-of-Numbers-Selection-Sort\obj\Debug\02-Sort-Array-of-Numbers-Selection-Sort.pdb
+E:\Programming\CSharp Advanced\Homeworks\01-Arrays-Lists-Stacks-Queues Solutions\02-Sort-Array-of-Numbers-Selection-Sort\bin\Debug\02-Sort-Array-of-Numbers-Selection-Sort.exe
+E:\Programming\CSharp Advanced\Homeworks\01-Arrays-Lists-Stacks-Queues Solutions\02-Sort-Array-of-Numbers-Selection-Sort\bin\Debug\02-Sort-Array-of-Numbers-Selection-Sort.pdb

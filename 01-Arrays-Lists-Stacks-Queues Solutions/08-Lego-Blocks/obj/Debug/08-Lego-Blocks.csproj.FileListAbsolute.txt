@@ -1,0 +1,6 @@
+E:\Programming\All Visual Studio Projects\01-Arrays-Lists-Stacks-Queues\08-Lego-Blocks\bin\Debug\08-Lego-Blocks.exe.config
+E:\Programming\All Visual Studio Projects\01-Arrays-Lists-Stacks-Queues\08-Lego-Blocks\bin\Debug\08-Lego-Blocks.exe
+E:\Programming\All Visual Studio Projects\01-Arrays-Lists-Stacks-Queues\08-Lego-Blocks\bin\Debug\08-Lego-Blocks.pdb
+E:\Programming\All Visual Studio Projects\01-Arrays-Lists-Stacks-Queues\08-Lego-Blocks\obj\Debug\08-Lego-Blocks.csprojResolveAssemblyReference.cache
+E:\Programming\All Visual Studio Projects\01-Arrays-Lists-Stacks-Queues\08-Lego-Blocks\obj\Debug\08-Lego-Blocks.exe
+E:\Programming\All Visual Studio Projects\01-Arrays-Lists-Stacks-Queues\08-Lego-Blocks\obj\Debug\08-Lego-Blocks.pdb

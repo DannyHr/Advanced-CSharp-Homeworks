@@ -1,0 +1,5 @@
+E:\Programming\All Visual Studio Projects\02-1-MultidimensionalArrays-Sets-Dictionaries\06-Count-Symbols\bin\Debug\06-Count-Symbols.exe.config
+E:\Programming\All Visual Studio Projects\02-1-MultidimensionalArrays-Sets-Dictionaries\06-Count-Symbols\bin\Debug\06-Count-Symbols.exe
+E:\Programming\All Visual Studio Projects\02-1-MultidimensionalArrays-Sets-Dictionaries\06-Count-Symbols\bin\Debug\06-Count-Symbols.pdb
+E:\Programming\All Visual Studio Projects\02-1-MultidimensionalArrays-Sets-Dictionaries\06-Count-Symbols\obj\Debug\06-Count-Symbols.exe
+E:\Programming\All Visual Studio Projects\02-1-MultidimensionalArrays-Sets-Dictionaries\06-Count-Symbols\obj\Debug\06-Count-Symbols.pdb

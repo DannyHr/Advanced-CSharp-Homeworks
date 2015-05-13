@@ -1,0 +1,6 @@
+E:\Programming\All Visual Studio Projects\01-Arrays-Lists-Stacks-Queues\10-Pythagorean-Numbers\bin\Debug\10-Pythagorean-Numbers.exe.config
+E:\Programming\All Visual Studio Projects\01-Arrays-Lists-Stacks-Queues\10-Pythagorean-Numbers\bin\Debug\10-Pythagorean-Numbers.exe
+E:\Programming\All Visual Studio Projects\01-Arrays-Lists-Stacks-Queues\10-Pythagorean-Numbers\bin\Debug\10-Pythagorean-Numbers.pdb
+E:\Programming\All Visual Studio Projects\01-Arrays-Lists-Stacks-Queues\10-Pythagorean-Numbers\obj\Debug\10-Pythagorean-Numbers.csprojResolveAssemblyReference.cache
+E:\Programming\All Visual Studio Projects\01-Arrays-Lists-Stacks-Queues\10-Pythagorean-Numbers\obj\Debug\10-Pythagorean-Numbers.exe
+E:\Programming\All Visual Studio Projects\01-Arrays-Lists-Stacks-Queues\10-Pythagorean-Numbers\obj\Debug\10-Pythagorean-Numbers.pdb

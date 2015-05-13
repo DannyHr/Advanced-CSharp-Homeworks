@@ -1,0 +1,12 @@
+E:\Programming\All Visual Studio Projects\01-Arrays-Lists-Stacks-Queues\03-Categorize-Numbers-Min-Max-Sum-Avg\bin\Debug\03-Categorize-Numbers-Min-Max-Sum-Avg.exe.config
+E:\Programming\All Visual Studio Projects\01-Arrays-Lists-Stacks-Queues\03-Categorize-Numbers-Min-Max-Sum-Avg\bin\Debug\03-Categorize-Numbers-Min-Max-Sum-Avg.exe
+E:\Programming\All Visual Studio Projects\01-Arrays-Lists-Stacks-Queues\03-Categorize-Numbers-Min-Max-Sum-Avg\bin\Debug\03-Categorize-Numbers-Min-Max-Sum-Avg.pdb
+E:\Programming\All Visual Studio Projects\01-Arrays-Lists-Stacks-Queues\03-Categorize-Numbers-Min-Max-Sum-Avg\obj\Debug\03-Categorize-Numbers-Min-Max-Sum-Avg.csprojResolveAssemblyReference.cache
+E:\Programming\All Visual Studio Projects\01-Arrays-Lists-Stacks-Queues\03-Categorize-Numbers-Min-Max-Sum-Avg\obj\Debug\03-Categorize-Numbers-Min-Max-Sum-Avg.exe
+E:\Programming\All Visual Studio Projects\01-Arrays-Lists-Stacks-Queues\03-Categorize-Numbers-Min-Max-Sum-Avg\obj\Debug\03-Categorize-Numbers-Min-Max-Sum-Avg.pdb
+E:\Programming\CSharp Advanced\Homeworks\01-Arrays-Lists-Stacks-Queues Solutions\03-Categorize-Numbers-Min-Max-Sum-Avg\bin\Debug\03-Categorize-Numbers-Min-Max-Sum-Avg.exe.config
+E:\Programming\CSharp Advanced\Homeworks\01-Arrays-Lists-Stacks-Queues Solutions\03-Categorize-Numbers-Min-Max-Sum-Avg\obj\Debug\03-Categorize-Numbers-Min-Max-Sum-Avg.exe
+E:\Programming\CSharp Advanced\Homeworks\01-Arrays-Lists-Stacks-Queues Solutions\03-Categorize-Numbers-Min-Max-Sum-Avg\obj\Debug\03-Categorize-Numbers-Min-Max-Sum-Avg.pdb
+E:\Programming\CSharp Advanced\Homeworks\01-Arrays-Lists-Stacks-Queues Solutions\03-Categorize-Numbers-Min-Max-Sum-Avg\bin\Debug\03-Categorize-Numbers-Min-Max-Sum-Avg.exe
+E:\Programming\CSharp Advanced\Homeworks\01-Arrays-Lists-Stacks-Queues Solutions\03-Categorize-Numbers-Min-Max-Sum-Avg\bin\Debug\03-Categorize-Numbers-Min-Max-Sum-Avg.pdb
+E:\Programming\CSharp Advanced\Homeworks\01-Arrays-Lists-Stacks-Queues Solutions\03-Categorize-Numbers-Min-Max-Sum-Avg\obj\Debug\03-Categorize-Numbers-Min-Max-Sum-Avg.csprojResolveAssemblyReference.cache

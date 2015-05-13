@@ -1,0 +1,5 @@
+E:\Programming\All Visual Studio Projects\01-Arrays-Lists-Stacks-Queues\05-Longest-Increasing-Sequence\bin\Debug\05-Longest-Increasing-Sequence.exe.config
+E:\Programming\All Visual Studio Projects\01-Arrays-Lists-Stacks-Queues\05-Longest-Increasing-Sequence\bin\Debug\05-Longest-Increasing-Sequence.exe
+E:\Programming\All Visual Studio Projects\01-Arrays-Lists-Stacks-Queues\05-Longest-Increasing-Sequence\bin\Debug\05-Longest-Increasing-Sequence.pdb
+E:\Programming\All Visual Studio Projects\01-Arrays-Lists-Stacks-Queues\05-Longest-Increasing-Sequence\obj\Debug\05-Longest-Increasing-Sequence.exe
+E:\Programming\All Visual Studio Projects\01-Arrays-Lists-Stacks-Queues\05-Longest-Increasing-Sequence\obj\Debug\05-Longest-Increasing-Sequence.pdb

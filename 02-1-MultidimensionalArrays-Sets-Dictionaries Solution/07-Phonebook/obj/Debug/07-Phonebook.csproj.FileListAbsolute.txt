@@ -1,0 +1,5 @@
+E:\Programming\All Visual Studio Projects\02-1-MultidimensionalArrays-Sets-Dictionaries\07-Phonebook\bin\Debug\07-Phonebook.exe.config
+E:\Programming\All Visual Studio Projects\02-1-MultidimensionalArrays-Sets-Dictionaries\07-Phonebook\bin\Debug\07-Phonebook.exe
+E:\Programming\All Visual Studio Projects\02-1-MultidimensionalArrays-Sets-Dictionaries\07-Phonebook\bin\Debug\07-Phonebook.pdb
+E:\Programming\All Visual Studio Projects\02-1-MultidimensionalArrays-Sets-Dictionaries\07-Phonebook\obj\Debug\07-Phonebook.exe
+E:\Programming\All Visual Studio Projects\02-1-MultidimensionalArrays-Sets-Dictionaries\07-Phonebook\obj\Debug\07-Phonebook.pdb

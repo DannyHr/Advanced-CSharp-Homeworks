@@ -1,0 +1,9 @@
+E:\Programming\All Visual Studio Projects\01-Arrays-Lists-Stacks-Queues\01-Sort-Array-of-Numbers\bin\Debug\01-Sort-Array-of-Numbers.exe.config
+E:\Programming\All Visual Studio Projects\01-Arrays-Lists-Stacks-Queues\01-Sort-Array-of-Numbers\bin\Debug\01-Sort-Array-of-Numbers.exe
+E:\Programming\All Visual Studio Projects\01-Arrays-Lists-Stacks-Queues\01-Sort-Array-of-Numbers\bin\Debug\01-Sort-Array-of-Numbers.pdb
+E:\Programming\All Visual Studio Projects\01-Arrays-Lists-Stacks-Queues\01-Sort-Array-of-Numbers\obj\Debug\01-Sort-Array-of-Numbers.csprojResolveAssemblyReference.cache
+E:\Programming\All Visual Studio Projects\01-Arrays-Lists-Stacks-Queues\01-Sort-Array-of-Numbers\obj\Debug\01-Sort-Array-of-Numbers.exe
+E:\Programming\All Visual Studio Projects\01-Arrays-Lists-Stacks-Queues\01-Sort-Array-of-Numbers\obj\Debug\01-Sort-Array-of-Numbers.pdb
+E:\Programming\CSharp Advanced\Homeworks\01-Arrays-Lists-Stacks-Queues Solutions\01-Sort-Array-of-Numbers\bin\Debug\01-Sort-Array-of-Numbers.exe.config
+E:\Programming\CSharp Advanced\Homeworks\01-Arrays-Lists-Stacks-Queues Solutions\01-Sort-Array-of-Numbers\obj\Debug\01-Sort-Array-of-Numbers.exe
+E:\Programming\CSharp Advanced\Homeworks\01-Arrays-Lists-Stacks-Queues Solutions\01-Sort-Array-of-Numbers\obj\Debug\01-Sort-Array-of-Numbers.pdb

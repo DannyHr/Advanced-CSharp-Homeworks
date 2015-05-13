@@ -1,0 +1,6 @@
+E:\Programming\All Visual Studio Projects\02-Methods\07-Generic-Array-Sort\bin\Debug\07-Generic-Array-Sort.exe.config
+E:\Programming\All Visual Studio Projects\02-Methods\07-Generic-Array-Sort\bin\Debug\07-Generic-Array-Sort.exe
+E:\Programming\All Visual Studio Projects\02-Methods\07-Generic-Array-Sort\bin\Debug\07-Generic-Array-Sort.pdb
+E:\Programming\All Visual Studio Projects\02-Methods\07-Generic-Array-Sort\obj\Debug\07-Generic-Array-Sort.csprojResolveAssemblyReference.cache
+E:\Programming\All Visual Studio Projects\02-Methods\07-Generic-Array-Sort\obj\Debug\07-Generic-Array-Sort.exe
+E:\Programming\All Visual Studio Projects\02-Methods\07-Generic-Array-Sort\obj\Debug\07-Generic-Array-Sort.pdb

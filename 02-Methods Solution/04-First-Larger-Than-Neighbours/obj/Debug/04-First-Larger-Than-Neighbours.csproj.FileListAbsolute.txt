@@ -1,0 +1,5 @@
+E:\Programming\All Visual Studio Projects\02-Methods\04-First-Larger-Than-Neighbours\bin\Debug\04-First-Larger-Than-Neighbours.exe.config
+E:\Programming\All Visual Studio Projects\02-Methods\04-First-Larger-Than-Neighbours\bin\Debug\04-First-Larger-Than-Neighbours.exe
+E:\Programming\All Visual Studio Projects\02-Methods\04-First-Larger-Than-Neighbours\bin\Debug\04-First-Larger-Than-Neighbours.pdb
+E:\Programming\All Visual Studio Projects\02-Methods\04-First-Larger-Than-Neighbours\obj\Debug\04-First-Larger-Than-Neighbours.exe
+E:\Programming\All Visual Studio Projects\02-Methods\04-First-Larger-Than-Neighbours\obj\Debug\04-First-Larger-Than-Neighbours.pdb

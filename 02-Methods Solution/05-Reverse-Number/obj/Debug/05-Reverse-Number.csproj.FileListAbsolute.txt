@@ -1,0 +1,6 @@
+E:\Programming\All Visual Studio Projects\02-Methods\05-Reverse-Number\bin\Debug\05-Reverse-Number.exe.config
+E:\Programming\All Visual Studio Projects\02-Methods\05-Reverse-Number\bin\Debug\05-Reverse-Number.exe
+E:\Programming\All Visual Studio Projects\02-Methods\05-Reverse-Number\bin\Debug\05-Reverse-Number.pdb
+E:\Programming\All Visual Studio Projects\02-Methods\05-Reverse-Number\obj\Debug\05-Reverse-Number.exe
+E:\Programming\All Visual Studio Projects\02-Methods\05-Reverse-Number\obj\Debug\05-Reverse-Number.pdb
+E:\Programming\All Visual Studio Projects\02-Methods\05-Reverse-Number\obj\Debug\05-Reverse-Number.csprojResolveAssemblyReference.cache

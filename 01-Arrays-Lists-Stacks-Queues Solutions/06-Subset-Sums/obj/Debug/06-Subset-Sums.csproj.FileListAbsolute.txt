@@ -1,0 +1,6 @@
+E:\Programming\All Visual Studio Projects\01-Arrays-Lists-Stacks-Queues\06-Subset-Sums\bin\Debug\06-Subset-Sums.exe.config
+E:\Programming\All Visual Studio Projects\01-Arrays-Lists-Stacks-Queues\06-Subset-Sums\bin\Debug\06-Subset-Sums.exe
+E:\Programming\All Visual Studio Projects\01-Arrays-Lists-Stacks-Queues\06-Subset-Sums\bin\Debug\06-Subset-Sums.pdb
+E:\Programming\All Visual Studio Projects\01-Arrays-Lists-Stacks-Queues\06-Subset-Sums\obj\Debug\06-Subset-Sums.csprojResolveAssemblyReference.cache
+E:\Programming\All Visual Studio Projects\01-Arrays-Lists-Stacks-Queues\06-Subset-Sums\obj\Debug\06-Subset-Sums.exe
+E:\Programming\All Visual Studio Projects\01-Arrays-Lists-Stacks-Queues\06-Subset-Sums\obj\Debug\06-Subset-Sums.pdb

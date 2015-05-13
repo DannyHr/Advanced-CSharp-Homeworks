@@ -1,0 +1,6 @@
+E:\Programming\All Visual Studio Projects\02-1-MultidimensionalArrays-Sets-Dictionaries\02-Maximal-Sum\bin\Debug\02-Maximal-Sum.exe.config
+E:\Programming\All Visual Studio Projects\02-1-MultidimensionalArrays-Sets-Dictionaries\02-Maximal-Sum\bin\Debug\02-Maximal-Sum.exe
+E:\Programming\All Visual Studio Projects\02-1-MultidimensionalArrays-Sets-Dictionaries\02-Maximal-Sum\bin\Debug\02-Maximal-Sum.pdb
+E:\Programming\All Visual Studio Projects\02-1-MultidimensionalArrays-Sets-Dictionaries\02-Maximal-Sum\obj\Debug\02-Maximal-Sum.exe
+E:\Programming\All Visual Studio Projects\02-1-MultidimensionalArrays-Sets-Dictionaries\02-Maximal-Sum\obj\Debug\02-Maximal-Sum.pdb
+E:\Programming\All Visual Studio Projects\02-1-MultidimensionalArrays-Sets-Dictionaries\02-Maximal-Sum\obj\Debug\02-Maximal-Sum.csprojResolveAssemblyReference.cache

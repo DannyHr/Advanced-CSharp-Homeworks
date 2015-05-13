@@ -1,0 +1,6 @@
+E:\Programming\All Visual Studio Projects\02-1-MultidimensionalArrays-Sets-Dictionaries\03-Matrix-Shuffling\bin\Debug\03-Matrix-Shuffling.exe.config
+E:\Programming\All Visual Studio Projects\02-1-MultidimensionalArrays-Sets-Dictionaries\03-Matrix-Shuffling\obj\Debug\03-Matrix-Shuffling.csprojResolveAssemblyReference.cache
+E:\Programming\All Visual Studio Projects\02-1-MultidimensionalArrays-Sets-Dictionaries\03-Matrix-Shuffling\bin\Debug\03-Matrix-Shuffling.exe
+E:\Programming\All Visual Studio Projects\02-1-MultidimensionalArrays-Sets-Dictionaries\03-Matrix-Shuffling\bin\Debug\03-Matrix-Shuffling.pdb
+E:\Programming\All Visual Studio Projects\02-1-MultidimensionalArrays-Sets-Dictionaries\03-Matrix-Shuffling\obj\Debug\03-Matrix-Shuffling.exe
+E:\Programming\All Visual Studio Projects\02-1-MultidimensionalArrays-Sets-Dictionaries\03-Matrix-Shuffling\obj\Debug\03-Matrix-Shuffling.pdb

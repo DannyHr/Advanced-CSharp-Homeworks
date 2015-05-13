@@ -1,0 +1,6 @@
+E:\Programming\All Visual Studio Projects\01-Arrays-Lists-Stacks-Queues\09-Stuck-Numbers\bin\Debug\09-Stuck-Numbers.exe.config
+E:\Programming\All Visual Studio Projects\01-Arrays-Lists-Stacks-Queues\09-Stuck-Numbers\bin\Debug\09-Stuck-Numbers.exe
+E:\Programming\All Visual Studio Projects\01-Arrays-Lists-Stacks-Queues\09-Stuck-Numbers\bin\Debug\09-Stuck-Numbers.pdb
+E:\Programming\All Visual Studio Projects\01-Arrays-Lists-Stacks-Queues\09-Stuck-Numbers\obj\Debug\09-Stuck-Numbers.csprojResolveAssemblyReference.cache
+E:\Programming\All Visual Studio Projects\01-Arrays-Lists-Stacks-Queues\09-Stuck-Numbers\obj\Debug\09-Stuck-Numbers.exe
+E:\Programming\All Visual Studio Projects\01-Arrays-Lists-Stacks-Queues\09-Stuck-Numbers\obj\Debug\09-Stuck-Numbers.pdb

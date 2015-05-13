@@ -1,0 +1,5 @@
+E:\Programming\All Visual Studio Projects\02-1-MultidimensionalArrays-Sets-Dictionaries\09-Terrorists-Win\bin\Debug\09-Terrorists-Win.exe.config
+E:\Programming\All Visual Studio Projects\02-1-MultidimensionalArrays-Sets-Dictionaries\09-Terrorists-Win\bin\Debug\09-Terrorists-Win.exe
+E:\Programming\All Visual Studio Projects\02-1-MultidimensionalArrays-Sets-Dictionaries\09-Terrorists-Win\bin\Debug\09-Terrorists-Win.pdb
+E:\Programming\All Visual Studio Projects\02-1-MultidimensionalArrays-Sets-Dictionaries\09-Terrorists-Win\obj\Debug\09-Terrorists-Win.exe
+E:\Programming\All Visual Studio Projects\02-1-MultidimensionalArrays-Sets-Dictionaries\09-Terrorists-Win\obj\Debug\09-Terrorists-Win.pdb
